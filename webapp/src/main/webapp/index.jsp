@@ -1,12 +1,19 @@
-<!-- The video -->
-<video autoplay muted loop id="myVideo">
-  <source src="rain.mp4" type="video/mp4">
-</video>
+<p>HTML</p>
+<div class="container">
+  <div class="skills html">90%</div>
+</div>
 
-<!-- Optional: some overlay text to describe the video -->
-<div class="content">
-  <h1>Heading</h1>
-  <p>Lorem ipsum...</p>
-  <!-- Use a button to pause/play the video with JavaScript -->
-  <button id="myBtn" onclick="myFunction()">Pause</button>
+<p>CSS</p>
+<div class="container">
+  <div class="skills css">80%</div>
+</div>
+
+<p>JavaScript</p>
+<div class="container">
+  <div class="skills js">65%</div>
+</div>
+
+<p>PHP</p>
+<div class="container">
+  <div class="skills php">60%</div>
 </div>

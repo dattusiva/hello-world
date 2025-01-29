@@ -13,6 +13,11 @@
   <div class="skills js">65%</div>
 </div>
 
+<p>Javat</p>
+<div class="container">
+  <div class="skills js">55%</div>
+</div>
+
 <p>PHP</p>
 <div class="container">
   <div class="skills php">60%</div>
